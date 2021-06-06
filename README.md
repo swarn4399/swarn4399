@@ -2,8 +2,8 @@
 
 A final year student of Computer Science & Engineering at Institute of Engineering & Management, Kolkata.
 
-- 🔭 I’m currently working on finding imposters in real world.
-- 🌱 I’m currently learning anything!
+- 🔭 I’m currently prepping for Grad School.
+- 🌱 I’m currently learning Calculus, Software Systems Engineering and Database Management.
 - 👯 I’m looking to collaborate on Deep Learning projects, especially Computer Vision and NLP.
 - 💬 Ask me about Music/Art/Indian Mythology...
 - 😄 Pronouns: he/his
