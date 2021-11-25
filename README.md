@@ -1,9 +1,9 @@
 ### Hi there, I am Swarnabha Roy 👋
 
-A final year student of Computer Science & Engineering at Institute of Engineering & Management, Kolkata.
+A first year MS in Computer Science student at the University of Florida, USA.
 
-- 🔭 I’m currently prepping for Grad School.
-- 🌱 I’m currently learning Calculus, Software Systems Engineering and Database Management.
+- 🔭 I’m looking for Summer 2022 internships in Software Engineering, Machine Learning, and Data Science.
+- 🌱 I’m currently learning Statistics, Geometric Computer Vision and Distributed Systems.
 - 👯 I’m looking to collaborate on Deep Learning projects, especially Computer Vision and NLP.
 - 💬 Ask me about Music/Art/Indian Mythology...
 - 😄 Pronouns: he/his
