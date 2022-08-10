@@ -1,8 +1,8 @@
 ### Hi there, I am Swarnabha Roy 👋
 
-A first year MS in Computer Science student at the University of Florida, USA.
+Pursuing an MS in Computer Science at the University of Florida, USA.
 
-- 🔭 I’m looking for Summer 2022 internships in Software Engineering, Machine Learning, and Data Science.
+- 🔭 I’m looking for internships and full-time roles in Software Engineering, Machine Learning, and Data Science.
 - 🌱 I’m currently learning Statistics, Geometric Computer Vision and Distributed Systems.
 - 👯 I’m looking to collaborate on Deep Learning projects, especially Computer Vision and NLP.
 - 💬 Ask me about Music/Art/Indian Mythology...
