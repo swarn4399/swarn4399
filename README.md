@@ -11,7 +11,7 @@ Pursuing an MS in Computer Science at the University of Florida, USA.
 
 ### Connect with me:
 
-Contact me for research collaborations at swarnabha4399@gmail.com
+Contact me for collaborations and opportunities at swarnabha4399@gmail.com
 
 [<img align="left" alt="swarn4399.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="cool_musician | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
