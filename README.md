@@ -29,4 +29,4 @@ Contact me for collaborations and opportunities at swarnabha4399@gmail.com
 [linkedin]: https://www.linkedin.com/in/swarnabharoy/
 
 
-[![Swarnabbha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarn4399)](https://github.com/swarn4399/github-readme-stats)
+<!-- [![Swarnabbha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarn4399)](https://github.com/swarn4399/github-readme-stats) -->
