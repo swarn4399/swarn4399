@@ -21,9 +21,12 @@ Contact me for collaborations and opportunities at swarnabha4399@gmail.com
 
 ---
 
-<img align="left" alt="Swarnabha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=swarn4399&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="Swarnabha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=swarn4399&show_icons=true&hide_border=true" /> -->
 
 
 [website]: https://swarn4399.github.io/
 [twitter]: https://twitter.com/cool_musician
 [linkedin]: https://www.linkedin.com/in/swarnabharoy/
+
+
+[![Swarnabbha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarn4399)](https://github.com/swarn4399/github-readme-stats)
