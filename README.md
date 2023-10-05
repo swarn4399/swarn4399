@@ -1,10 +1,10 @@
 ### Hi there, I am Swarnabha Roy 👋
 
-Pursuing an MS in Computer Science at the University of Florida, USA.
+Data Scientist at Elutions Inc with an MS in Computer Science from the University of Florida, USA.
 
-- 🔭 I’m looking for internships and full-time roles in Software Engineering, Machine Learning, and Data Science.
-- 🌱 I’m currently learning Statistics, Geometric Computer Vision and Distributed Systems.
-- 👯 I’m looking to collaborate on Deep Learning projects, especially Computer Vision and NLP.
+- 🔭 I’m open to full-time Software Engineering, Machine Learning, and Data Science roles.
+- 🌱 I’m currently learning Statistics, Reinforcement Learning, and Distributed Systems.
+- 👯 I want to collaborate on Deep Learning projects, especially Computer Vision and NLP.
 - 💬 Ask me about Music/Art/Indian Mythology...
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Your heartbeat changes and mimics the music you listen to!
